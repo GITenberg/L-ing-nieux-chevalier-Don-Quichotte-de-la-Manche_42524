@@ -34,6 +34,8 @@ creator:
     - http://en.wikipedia.org/wiki/Miguel_de_Cervantes
     - http://es.wikipedia.org/wiki/Miguel_de_Cervantes
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42524#L-ing-nieux-chevalier-Don-Quichotte-de-la-Manche
 gutenberg_bookshelf:
 - FR Littérature
 - Best Books Ever Listings
