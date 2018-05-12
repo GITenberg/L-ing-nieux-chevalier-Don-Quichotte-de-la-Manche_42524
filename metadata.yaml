@@ -1,0 +1,55 @@
+_repo: L-ing-nieux-chevalier-Don-Quichotte-de-la-Manche_42524
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Roux, George
+    aliases:
+    - Roux, Georges
+    - Roux, G.
+    deathdate: 1929
+    gutenberg_agent_id: '41732'
+    url: http://www.gutenberg.org/2009/agents/41732
+  translator:
+    agent_name: Furne, Charles
+    birthdate: 1794
+    deathdate: 1859
+    gutenberg_agent_id: '41733'
+    url: http://www.gutenberg.org/2009/agents/41733
+covers:
+- cover_type: archival
+  image_path: 42524-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Cervantes Saavedra, Miguel de
+    aliases:
+    - Cervantes, Michel
+    - Saavedra, Miguel de Cervantes
+    - Cervantes, Miguel de
+    - De Cervantes Saavedra, Miguel
+    birthdate: 1547
+    deathdate: 1616
+    gutenberg_agent_id: '505'
+    url: http://www.gutenberg.org/2009/agents/505
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Miguel_de_Cervantes
+    - http://es.wikipedia.org/wiki/Miguel_de_Cervantes
+description: ''
+gutenberg_bookshelf:
+- FR Littérature
+- Best Books Ever Listings
+gutenberg_issued: '2013-04-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42524'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Knights and knighthood -- Spain -- Fiction'
+- !lcsh 'Spain -- Social life and customs -- 16th century -- Fiction'
+- !lcsh 'Romances'
+- !lcsh 'Picaresque literature'
+- !lcc 'PQ'
+title: L'ingénieux chevalier Don Quichotte de la Manche
+url: http://www.gutenberg.org/ebooks/42524
